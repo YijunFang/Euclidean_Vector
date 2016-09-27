@@ -1,0 +1,2 @@
+EuclideanVectorTester.o: EuclideanVectorTester.cpp EuclideanVector.h
+EuclideanVector.o: EuclideanVector.cpp EuclideanVector.h
